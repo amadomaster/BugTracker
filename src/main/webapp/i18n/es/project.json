@@ -2,21 +2,21 @@
   "bugTrackerApp": {
     "project": {
       "home": {
-        "title": "Projects",
-        "createLabel": "Crear nuevo Project",
-        "createOrEditLabel": "Crear o editar Project",
-        "notFound": "Ningún Projects encontrado"
+        "title": "Proyectos",
+        "createLabel": "Crear nuevo Proyecto",
+        "createOrEditLabel": "Crear o editar Proyecto",
+        "notFound": "Ningún Proyecto encontrado"
       },
-      "created": "Un nuevo Project ha sido creado con el identificador {{ param }}",
-      "updated": "Un Project ha sido actualizado con el identificador {{ param }}",
-      "deleted": "Un Project ha sido eliminado con el identificador {{ param }}",
+      "created": "Un nuevo Proyecto ha sido creado con el identificador {{ param }}",
+      "updated": "Un Proyecto ha sido actualizado con el identificador {{ param }}",
+      "deleted": "Un Proyecto ha sido eliminado con el identificador {{ param }}",
       "delete": {
-        "question": "¿Seguro que quiere eliminar Project {{ id }}?"
+        "question": "¿Seguro que quiere eliminar el Proyecto {{ id }}?"
       },
       "detail": {
-        "title": "Project"
+        "title": "Proyecto"
       },
-      "name": "Name"
+      "name": "Nombre"
     }
   }
 }

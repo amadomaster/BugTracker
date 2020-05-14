@@ -2,21 +2,21 @@
   "bugTrackerApp": {
     "label": {
       "home": {
-        "title": "Labels",
-        "createLabel": "Crear nuevo Label",
-        "createOrEditLabel": "Crear o editar Label",
-        "notFound": "Ningún Labels encontrado"
+        "title": "Etiquetas",
+        "createLabel": "Crear nueva Etiqueta",
+        "createOrEditLabel": "Crear o editar Etiqueta",
+        "notFound": "Ninguna Etiqueta encontrada"
       },
-      "created": "Un nuevo Label ha sido creado con el identificador {{ param }}",
-      "updated": "Un Label ha sido actualizado con el identificador {{ param }}",
-      "deleted": "Un Label ha sido eliminado con el identificador {{ param }}",
+      "created": "Una nueva Etiqueta ha sido creada con el identificador {{ param }}",
+      "updated": "Una Etiqueta ha sido actualizada con el identificador {{ param }}",
+      "deleted": "Una Etiqueta ha sido eliminada con el identificador {{ param }}",
       "delete": {
-        "question": "¿Seguro que quiere eliminar Label {{ id }}?"
+        "question": "¿Seguro que quiere eliminar la Etiqueta {{ id }}?"
       },
       "detail": {
-        "title": "Label"
+        "title": "Etiqueta"
       },
-      "label": "Label",
+      "label": "Etiqueta",
       "ticket": "Ticket"
     }
   }
